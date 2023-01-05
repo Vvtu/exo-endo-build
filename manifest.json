@@ -1,18 +1,18 @@
 {
-  "src/pages/images/exothermic.png": {
-    "file": "assets/exothermic.0ec48e02.png",
-    "src": "src/pages/images/exothermic.png"
-  },
   "src/pages/images/endothermic.png": {
     "file": "assets/endothermic.da9dd79b.png",
     "src": "src/pages/images/endothermic.png"
   },
+  "src/pages/images/exothermic.png": {
+    "file": "assets/exothermic.0ec48e02.png",
+    "src": "src/pages/images/exothermic.png"
+  },
   ".solid/index.html": {
-    "file": "assets/index.5232f700.js",
+    "file": "assets/index.9ca44fd3.js",
     "src": ".solid/index.html",
     "isEntry": true,
     "css": [
-      "assets/index.76abc01d.css"
+      "assets/index.45aaf4e9.css"
     ],
     "assets": [
       "assets/exothermic.0ec48e02.png",
@@ -20,7 +20,7 @@
     ]
   },
   ".solid/index.css": {
-    "file": "assets/index.76abc01d.css",
+    "file": "assets/index.45aaf4e9.css",
     "src": ".solid/index.css"
   }
 }
