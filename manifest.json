@@ -1,0 +1,14 @@
+{
+  ".solid/index.html": {
+    "file": "assets/index.c4bed6c7.js",
+    "src": ".solid/index.html",
+    "isEntry": true,
+    "css": [
+      "assets/index.76abc01d.css"
+    ]
+  },
+  ".solid/index.css": {
+    "file": "assets/index.76abc01d.css",
+    "src": ".solid/index.css"
+  }
+}
