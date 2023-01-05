@@ -3,11 +3,11 @@
   "index.html": [
     {
       "type": "script",
-      "href": "https://vvtu.github.io/exo-endo-build/assets/index.c4bed6c7.js"
+      "href": "./assets/index.5232f700.js"
     },
     {
       "type": "style",
-      "href": "https://vvtu.github.io/exo-endo-build/assets/index.76abc01d.css"
+      "href": "./assets/index.76abc01d.css"
     }
   ]
 }
