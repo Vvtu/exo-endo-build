@@ -1,11 +1,11 @@
 {
-  "src/pages/images/endothermic.png": {
-    "file": "assets/endothermic.da9dd79b.png",
-    "src": "src/pages/images/endothermic.png"
-  },
   "src/pages/images/exothermic.png": {
     "file": "assets/exothermic.0ec48e02.png",
     "src": "src/pages/images/exothermic.png"
+  },
+  "src/pages/images/endothermic.png": {
+    "file": "assets/endothermic.da9dd79b.png",
+    "src": "src/pages/images/endothermic.png"
   },
   ".solid/index.html": {
     "file": "assets/index.5232f700.js",
