@@ -8,11 +8,11 @@
     "src": "src/pages/images/endothermic.png"
   },
   ".solid/index.html": {
-    "file": "assets/index.72800a56.js",
+    "file": "assets/index.099eb135.js",
     "src": ".solid/index.html",
     "isEntry": true,
     "css": [
-      "assets/index.b1b778f8.css"
+      "assets/index.2febf61a.css"
     ],
     "assets": [
       "assets/exothermic.0ec48e02.png",
@@ -20,7 +20,7 @@
     ]
   },
   ".solid/index.css": {
-    "file": "assets/index.b1b778f8.css",
+    "file": "assets/index.2febf61a.css",
     "src": ".solid/index.css"
   }
 }

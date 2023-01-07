@@ -63,6 +63,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
     "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png"
   ],
+  "src/common/common.ts": [
+    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
+    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png"
+  ],
   "src/chem-fromulas/formula-render.tsx": [
     "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
     "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png"
@@ -79,7 +83,19 @@
     "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
     "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png"
   ],
-  "src/pages/Home.tsx": [
+  "src/pages/home.tsx": [
+    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
+    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png"
+  ],
+  "node_modules/solid-transition-group/dist/solid-transition-group.js": [
+    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
+    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png"
+  ],
+  "src/pages/animate/animate.css": [
+    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
+    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png"
+  ],
+  "src/pages/animate/animate.tsx": [
     "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
     "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png"
   ],
