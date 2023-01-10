@@ -103,7 +103,7 @@
     "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
     "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png"
   ],
-  "src/custom.css": [
+  "src/common/common.css": [
     "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
     "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png"
   ],
