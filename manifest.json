@@ -7,10 +7,6 @@
     "file": "assets/endothermic.da9dd79b.png",
     "src": "src/pages/images/endothermic.png"
   },
-  "src/sounds/sound-files/432761__xpoki__lazershot.mp3": {
-    "file": "assets/432761__xpoki__lazershot.9318bd59.mp3",
-    "src": "src/sounds/sound-files/432761__xpoki__lazershot.mp3"
-  },
   "src/sounds/sound-files/477552__abacagi__explosion-sfx.mp3": {
     "file": "assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "src": "src/sounds/sound-files/477552__abacagi__explosion-sfx.mp3"
@@ -18,6 +14,10 @@
   "src/sounds/sound-files/133817__prutsik__space-swoosh.mp3": {
     "file": "assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "src": "src/sounds/sound-files/133817__prutsik__space-swoosh.mp3"
+  },
+  "src/sounds/sound-files/432761__xpoki__lazershot.mp3": {
+    "file": "assets/432761__xpoki__lazershot.9318bd59.mp3",
+    "src": "src/sounds/sound-files/432761__xpoki__lazershot.mp3"
   },
   "src/sounds/sound-files/135510__chriddof__space-bloop.mp3": {
     "file": "assets/135510__chriddof__space-bloop.f827dc21.mp3",
@@ -28,7 +28,7 @@
     "src": "src/sounds/sound-files/162485__kastenfrosch__space.mp3"
   },
   ".solid/index.html": {
-    "file": "assets/index.b3651570.js",
+    "file": "assets/index.28d875d2.js",
     "src": ".solid/index.html",
     "isEntry": true,
     "css": [
