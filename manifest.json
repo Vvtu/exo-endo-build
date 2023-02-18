@@ -32,7 +32,7 @@
     "src": ".solid/index.html",
     "isEntry": true,
     "css": [
-      "assets/index.a9e1af5d.css"
+      "assets/index.ea4281a4.css"
     ],
     "assets": [
       "assets/exothermic.0ec48e02.png",
@@ -45,7 +45,7 @@
     ]
   },
   ".solid/index.css": {
-    "file": "assets/index.a9e1af5d.css",
+    "file": "assets/index.ea4281a4.css",
     "src": ".solid/index.css"
   }
 }
