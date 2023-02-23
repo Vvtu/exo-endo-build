@@ -7,17 +7,17 @@
     "file": "assets/endothermic.da9dd79b.png",
     "src": "src/pages/play/images/endothermic.png"
   },
-  "src/sounds/sound-files/432761__xpoki__lazershot.mp3": {
-    "file": "assets/432761__xpoki__lazershot.9318bd59.mp3",
-    "src": "src/sounds/sound-files/432761__xpoki__lazershot.mp3"
+  "src/sounds/sound-files/133817__prutsik__space-swoosh.mp3": {
+    "file": "assets/133817__prutsik__space-swoosh.60491d2f.mp3",
+    "src": "src/sounds/sound-files/133817__prutsik__space-swoosh.mp3"
   },
   "src/sounds/sound-files/477552__abacagi__explosion-sfx.mp3": {
     "file": "assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "src": "src/sounds/sound-files/477552__abacagi__explosion-sfx.mp3"
   },
-  "src/sounds/sound-files/133817__prutsik__space-swoosh.mp3": {
-    "file": "assets/133817__prutsik__space-swoosh.60491d2f.mp3",
-    "src": "src/sounds/sound-files/133817__prutsik__space-swoosh.mp3"
+  "src/sounds/sound-files/432761__xpoki__lazershot.mp3": {
+    "file": "assets/432761__xpoki__lazershot.9318bd59.mp3",
+    "src": "src/sounds/sound-files/432761__xpoki__lazershot.mp3"
   },
   "src/sounds/sound-files/135510__chriddof__space-bloop.mp3": {
     "file": "assets/135510__chriddof__space-bloop.f827dc21.mp3",
@@ -32,7 +32,7 @@
     "src": ".solid/index.html",
     "isEntry": true,
     "css": [
-      "assets/index.35d62309.css"
+      "assets/index.0490349d.css"
     ],
     "assets": [
       "assets/exothermic.0ec48e02.png",
@@ -45,7 +45,7 @@
     ]
   },
   ".solid/index.css": {
-    "file": "assets/index.35d62309.css",
+    "file": "assets/index.0490349d.css",
     "src": ".solid/index.css"
   }
 }
