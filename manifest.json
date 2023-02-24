@@ -28,11 +28,11 @@
     "src": "src/sounds/sound-files/162485__kastenfrosch__space.mp3"
   },
   ".solid/index.html": {
-    "file": "assets/index.e6138ac9.js",
+    "file": "assets/index.de3dc8d4.js",
     "src": ".solid/index.html",
     "isEntry": true,
     "css": [
-      "assets/index.0490349d.css"
+      "assets/index.ff53c424.css"
     ],
     "assets": [
       "assets/exothermic.0ec48e02.png",
@@ -45,7 +45,7 @@
     ]
   },
   ".solid/index.css": {
-    "file": "assets/index.0490349d.css",
+    "file": "assets/index.ff53c424.css",
     "src": ".solid/index.css"
   }
 }
