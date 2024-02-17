@@ -1,7 +1,9 @@
 {
   "vite/modulepreload-polyfill": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -9,8 +11,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "node_modules/solid-js/dist/solid.js": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -18,8 +22,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "node_modules/solid-js/web/dist/web.js": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -27,8 +33,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "node_modules/solid-start/entry-client/mount.tsx": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -36,8 +44,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "node_modules/@solidjs/meta/dist/index.jsx": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -45,8 +55,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "node_modules/@solidjs/router/dist/integration.js": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -54,8 +66,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "node_modules/@solidjs/router/dist/lifecycle.js": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -63,8 +77,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "node_modules/@solidjs/router/dist/utils.js": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -72,8 +88,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "node_modules/@solidjs/router/dist/routing.js": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -81,8 +99,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "node_modules/@solidjs/router/dist/components.jsx": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -90,8 +110,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "node_modules/solid-start/server/ServerContext.tsx": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -99,8 +121,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "node_modules/solid-start/router.tsx": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -108,8 +132,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "node_modules/solid-start/server/types.tsx": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -117,8 +143,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "node_modules/solid-start/error-boundary/ErrorBoundary.tsx": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -126,8 +154,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "node_modules/solid-start/root/Scripts.tsx": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -135,8 +165,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "node_modules/solid-start/root/Document.tsx": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -144,17 +176,21 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "src/common/common.ts": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/162485__kastenfrosch__space.9e366244.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
-  "src/components/chem-fromulas/formula-render.tsx": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+  "src/components/chem-formulas/formula-render.tsx": [
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -162,35 +198,65 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "src/icons/close-Icon.tsx": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/162485__kastenfrosch__space.9e366244.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
-  "src/pages/play/images/exothermic.png": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+  "src/pages/play/images/compoundReaction.png": [
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/162485__kastenfrosch__space.9e366244.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
-  "src/pages/play/images/endothermic.png": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+  "src/pages/play/images/decompositionReaction.png": [
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/162485__kastenfrosch__space.9e366244.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
-  "src/components/chem-fromulas/rules.ts": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+  "src/pages/play/images/exchangeReaction.png": [
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
+    "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
+    "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
+    "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
+    "https://vvtu.github.io/exo-endo-build/assets/162485__kastenfrosch__space.9e366244.mp3",
+    "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
+  ],
+  "src/pages/play/images/noOne.png": [
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
+    "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
+    "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
+    "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
+    "https://vvtu.github.io/exo-endo-build/assets/162485__kastenfrosch__space.9e366244.mp3",
+    "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
+  ],
+  "src/components/chem-formulas/rules.ts": [
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -198,8 +264,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "src/components/summary-item/summary-item.tsx": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -207,8 +275,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "src/components/play-scores/show-wave-animation.css": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -216,8 +286,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "src/components/play-scores/answer-modal-window.tsx": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -225,8 +297,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "src/components/play-scores/rules-modal-window.tsx": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -234,17 +308,21 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "src/components/play-scores/play-scores.tsx": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/162485__kastenfrosch__space.9e366244.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
-  "src/components/chem-fromulas/chem-fromulas.tsx": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+  "src/components/chem-formulas/chem-formulas.tsx": [
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -252,8 +330,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "src/components/global-state/global-state.ts": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -261,8 +341,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "src/sounds/sound-files/477552__abacagi__explosion-sfx.mp3": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -270,8 +352,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "src/sounds/sound-files/133817__prutsik__space-swoosh.mp3": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -279,8 +363,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "src/sounds/sound-files/432761__xpoki__lazershot.mp3": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -288,8 +374,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "src/sounds/sound-files/162485__kastenfrosch__space.mp3": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -297,8 +385,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "src/sounds/sound-files/135510__chriddof__space-bloop.mp3": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -306,8 +396,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "src/sounds/sounds.ts": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -315,8 +407,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "src/pages/play/play.tsx": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -324,8 +418,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "src/icons/speaker-Icon.tsx": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -333,8 +429,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "src/pages/description/description.tsx": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -342,8 +440,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "src/pages/summary/summary.tsx": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -351,8 +451,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "src/root.css": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -360,8 +462,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "src/common/common.css": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -369,8 +473,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "src/root.tsx": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -378,8 +484,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "node_modules/solid-start/entry-client/StartClient.tsx": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -387,8 +495,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   "src/entry-client.tsx": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
@@ -396,8 +506,10 @@
     "https://vvtu.github.io/exo-endo-build/assets/135510__chriddof__space-bloop.f827dc21.mp3"
   ],
   ".solid/index.html": [
-    "https://vvtu.github.io/exo-endo-build/assets/exothermic.0ec48e02.png",
-    "https://vvtu.github.io/exo-endo-build/assets/endothermic.da9dd79b.png",
+    "https://vvtu.github.io/exo-endo-build/assets/compoundReaction.4adfb462.png",
+    "https://vvtu.github.io/exo-endo-build/assets/decompositionReaction.a5572377.png",
+    "https://vvtu.github.io/exo-endo-build/assets/exchangeReaction.4376d843.png",
+    "https://vvtu.github.io/exo-endo-build/assets/noOne.557fbdae.png",
     "https://vvtu.github.io/exo-endo-build/assets/477552__abacagi__explosion-sfx.fecfda49.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/133817__prutsik__space-swoosh.60491d2f.mp3",
     "https://vvtu.github.io/exo-endo-build/assets/432761__xpoki__lazershot.9318bd59.mp3",
