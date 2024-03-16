@@ -1,4 +1,8 @@
 {
+  "src/pages/play/images/compoundReaction.png": {
+    "file": "assets/compoundReaction.4adfb462.png",
+    "src": "src/pages/play/images/compoundReaction.png"
+  },
   "src/pages/play/images/decompositionReaction.png": {
     "file": "assets/decompositionReaction.a5572377.png",
     "src": "src/pages/play/images/decompositionReaction.png"
@@ -6,10 +10,6 @@
   "src/pages/play/images/noOne.png": {
     "file": "assets/noOne.557fbdae.png",
     "src": "src/pages/play/images/noOne.png"
-  },
-  "src/pages/play/images/compoundReaction.png": {
-    "file": "assets/compoundReaction.4adfb462.png",
-    "src": "src/pages/play/images/compoundReaction.png"
   },
   "src/pages/play/images/exchangeReaction.png": {
     "file": "assets/exchangeReaction.4376d843.png",
@@ -36,7 +36,7 @@
     "src": "src/sounds/sound-files/162485__kastenfrosch__space.mp3"
   },
   ".solid/index.html": {
-    "file": "assets/index.334e65ba.js",
+    "file": "assets/index.86fa0bd2.js",
     "src": ".solid/index.html",
     "isEntry": true,
     "css": [
